@@ -1,0 +1,31 @@
+nav{
+    background: dimgray;
+    position: fixed;
+    width: 100%;
+}
+
+ul{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+ul li{
+    display: inline-block;
+    color: white;
+    font-family: "Segoe UI";
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+ul li:hover{
+    color: lightgray;
+}
+
+img{
+    height: 30px;
+    width: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+https://github.com/Hor123Fourmies/Apple.git
